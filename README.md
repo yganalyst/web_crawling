@@ -22,3 +22,5 @@ https://www.it-swarm.asia/ko/python/%EC%85%80%EB%A0%88%EB%8A%84%EC%9C%BC%EB%A1%9
 => 셀레니움 기존 텍스트 지우기  
 https://mycup.tistory.com/269  
 => 셀레니움 기초 설명 (checkbox 클릭)  
+https://www.fun-coding.org/crawl_advance5.html  
+=> 셀레니움 xpath 사용법  
