@@ -26,3 +26,5 @@ https://www.fun-coding.org/crawl_advance5.html
 => 셀레니움 xpath 사용법  
 https://sqa.stackexchange.com/questions/1355/what-is-the-correct-way-to-select-an-option-using-seleniums-python-webdriver  
 => 셀레니움 드랍다운 목록(옵션) 선택  
+https://stackoverflow.com/questions/7263824/get-html-source-of-webelement-in-selenium-webdriver-using-python  
+=> 셀레니움 특정 element내에서만 parsing 하기  
