@@ -33,3 +33,5 @@ http://blog.naver.com/PostView.nhn?blogId=kiddwannabe&logNo=221430636045&categor
 
 https://m.blog.naver.com/PostView.nhn?blogId=kiddwannabe&logNo=221185808375&proxyReferer=https%3A%2F%2Fwww.google.com%2F  
 => User Agent  
+https://stackoverflow.com/questions/2506379/add-params-to-given-url-in-python  
+=> url에 params 추가하기  
