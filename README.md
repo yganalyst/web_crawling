@@ -30,3 +30,6 @@ https://stackoverflow.com/questions/7263824/get-html-source-of-webelement-in-sel
 => 셀레니움 특정 element내에서만 parsing 하기  
 http://blog.naver.com/PostView.nhn?blogId=kiddwannabe&logNo=221430636045&categoryNo=0&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView  
 => 셀레니움 send_keys에 엔터를 보내면 검색가능  
+
+https://m.blog.naver.com/PostView.nhn?blogId=kiddwannabe&logNo=221185808375&proxyReferer=https%3A%2F%2Fwww.google.com%2F  
+=> User Agent  
